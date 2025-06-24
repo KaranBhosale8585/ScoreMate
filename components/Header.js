@@ -45,7 +45,7 @@ const Header = () => {
             🎓
           </Link>
           <span className="text-2xl font-bold text-white tracking-wide">
-            Exam Portal
+             ScoreMate
           </span>
         </div>
 
